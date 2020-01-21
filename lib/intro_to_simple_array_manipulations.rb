@@ -1,2 +1,2 @@
-animals = [cat, dog, bird]
+animals = ["cat", "dog", "bird"]
 new_animal = 
