@@ -10,5 +10,5 @@
     end 
     
     def using_pop(array)
-      array.pop(next_color)
+      array.pop
     end 
