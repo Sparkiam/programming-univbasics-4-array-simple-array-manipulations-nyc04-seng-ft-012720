@@ -1,2 +1,4 @@
 animals = ["cat", "dog", "bird"]
-new_animal = 
+next_animal = "fish"
+
+animals.push(next_animal)
