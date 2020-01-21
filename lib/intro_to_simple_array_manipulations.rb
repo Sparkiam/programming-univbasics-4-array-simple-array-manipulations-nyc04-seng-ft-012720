@@ -14,5 +14,7 @@
     end 
     
     def pop_with_args(array)
-      if array > 2 = array.pop
+      if array > 2 
+        puts  array 
+      else puts array.pop 
     end 
