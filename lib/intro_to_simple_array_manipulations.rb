@@ -8,3 +8,7 @@
     def using_unshift(array,next_color)
       array.unshift(next_color)
     end 
+    
+    def using_pop(array, next_color)
+      array.pop(next_color)
+    end 
