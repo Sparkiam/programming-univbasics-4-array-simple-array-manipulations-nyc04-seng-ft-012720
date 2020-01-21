@@ -5,4 +5,6 @@
       array.push(next_color)
     end 
     
-    # updated_array = using_push(colors_in_the_rainbow, next_color)
+    def using_unshift(array,next_color)
+      array.unshift(next_color)
+    end 
