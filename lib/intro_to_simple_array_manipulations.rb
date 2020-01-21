@@ -17,4 +17,5 @@
       if array > 2 
         puts  array 
       else puts array.pop 
+      end 
     end 
