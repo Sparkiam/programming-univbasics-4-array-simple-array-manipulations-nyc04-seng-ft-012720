@@ -9,6 +9,6 @@
       array.unshift(next_color)
     end 
     
-    def using_pop(array, next_color)
+    def using_pop(array)
       array.pop(next_color)
     end 
