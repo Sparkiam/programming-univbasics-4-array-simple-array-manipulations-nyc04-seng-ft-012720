@@ -1,4 +1,1 @@
-animals = ["cat", "dog", "bird"]
-next_animal = "fish"
-
-animals.push(next_animal)
+updated_array = using_push(colors_in_the_rainbow, next_color)
