@@ -1,7 +1,7 @@
  colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
     next_color = "violet"
     
-    def using_push
+    def using_push(next_color)
       puts colors_in_the_rainbow.push(next_color)
     end 
     
